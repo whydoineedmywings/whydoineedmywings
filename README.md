@@ -18,3 +18,4 @@
 ---
 
 ## ⭐ Information about my activity in GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nozef&show_icons=true)
