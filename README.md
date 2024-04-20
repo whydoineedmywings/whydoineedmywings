@@ -1,7 +1,5 @@
 ## ❤️ Welcome to my github page!</strong>
 
-#### 🌐 Telegram: @qwiii
-
 ---
 
 ## 🚀 My knowledges
