@@ -1,7 +1,19 @@
-## ❤️ Welcome to my github page!</strong>
+![Avatar](https://avatars.githubusercontent.com/u/88164278?v=4)
 
+```
+I am amateur developer and anime enthusiast.
+I want to become a good developer one day so I can tell my grandchildren how their grandfather could do it, but they are mediocrity.
+```
 ---
+```
+Do I know this?
+```
 
-## 🚀 My knowledges
-![My Skills](https://skillicons.dev/icons?i=java,gradle,maven,python,fastapi,figma,firebase,arch)
----
+# ![Skills](https://skillicons.dev/icons?i=java,gradle,maven,python,fastapi,figma,firebase,arch)
+
+```
+How to contact with me?
+Do you really want to contact with me?
+```
+[![Telegram](https://cdn-icons-png.flaticon.com/64/3536/3536661.png)](https://t.me/wdinsmw1)
+[![Discord](https://cdn-icons-png.flaticon.com/64/3670/3670157.png)](https://discordapp.com/users/1052961641421078628)
