@@ -1,5 +1,3 @@
-![Avatar](https://avatars.githubusercontent.com/u/88164278?v=4)
-
 ```
 I am amateur developer and anime enthusiast.
 I want to become a good developer one day so I can tell my grandchildren how their grandfather could do it, but they are mediocrity.
