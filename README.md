@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 My knowledges
-![My Skills](https://skillicons.dev/icons?i=java,gradle,maven)
+![My Skills](https://skillicons.dev/icons?i=java,gradle,maven,python)
 ---
 
 ## ⭐ Information about my activity in GitHub
