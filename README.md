@@ -13,5 +13,4 @@ Do I know this?
 How to contact with me?
 Do you really want to contact with me?
 ```
-[![Telegram](https://cdn-icons-png.flaticon.com/64/3536/3536661.png)](https://t.me/wdinsmw1)
 [![Discord](https://cdn-icons-png.flaticon.com/64/3670/3670157.png)](https://discordapp.com/users/1052961641421078628)
