@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 My knowledges
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+![My Skills](https://skillicons.dev/icons?i=java,gradle,maven)
 ---
 
 ## ⭐ Information about my activity in GitHub
